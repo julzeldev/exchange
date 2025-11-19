@@ -204,4 +204,4 @@ MIT
 
 ## Acknowledgments
 
-Built with ❤️ using Next.js, MUI, and Tiptap.
+Built using Next.js, MUI, and Tiptap.
