@@ -61,10 +61,6 @@ Edit `.env.local` and update:
 
 #### Passwords
 
-The default passwords are:
-- User 1: `unsombrerograndeyfeo`
-- User 2: `elsombrerollevaplumas`
-
 To change passwords, generate new bcrypt hashes:
 
 \`\`\`bash
